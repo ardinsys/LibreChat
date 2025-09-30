@@ -1546,6 +1546,9 @@ html {
   border-left-width: 2px;
   line-height: 1rem;
   padding-left: 1rem;
+  color: gray;
+  font-weight: 200;
+  font-size: small;
 }
 
 .markdown table {
